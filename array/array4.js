@@ -61,4 +61,4 @@ console.log("Total Marks:", total);
 // Calculate average
 let average = total / marks.length;
 
-console.log("Average Marks:", average);
+console.log("Average Marks:", average); 
