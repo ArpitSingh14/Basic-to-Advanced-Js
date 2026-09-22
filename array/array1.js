@@ -5,3 +5,4 @@ for (let i = 0; i < marks.length; i++) {
 }
 let average = sum / marks.length;
 console.log("Average marks: " + average);
+console.log("Program For Marks");
